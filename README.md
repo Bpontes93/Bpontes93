@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bpontes93
-- 👀 I’m interested in Python, Data Science and Swift.
+- 👀 I’m interested in Python, Kotlin and Swift.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on Python scripts.
 - 📫 How to reach me +55 (11)980540376 (WhatsApp) or silvapontes_bruno10@outlook.com (e-mail).
