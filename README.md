@@ -26,10 +26,7 @@
 
 
 silvapontes_bruno10@outlook.com (e-mail).
-<div>
-	![Snake animation](https://github.com/bpontes93/Bpontes93/blob/output/github-contribution-grid-snake.svg)
-	
-</div>
+<div>![Snake animation](https://github.com/bpontes93/Bpontes93/blob/output/github-contribution-grid-snake.svg)</div>
 	
 <!---
 Bpontes93/Bpontes93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
