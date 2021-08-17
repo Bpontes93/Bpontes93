@@ -1,8 +1,18 @@
 # 👋 OI, SOU BRUNO PONTES
 
+### 🕵️ Explorando Data Analycts
+
+<img align="center" alt="bruno-sl" height="35" width="135" src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"> <img align="center" alt="bruno-sl" height="35" width="135" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+
+for dashboards: https://bityli.com/MyDashboardBP
+##
+
+
 ### 🌱 Estudando e desenvolvendo aplicações Android com Kotlin.
 
 <img align="center" alt="bruno-Ad" height="35" width="135" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"> <img align="center" alt="bruno-kt" height="35" width="135" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+
+##
 
 ### 💡 Compartilhando ideias, soluções e curiosidades em Python.
 <img align="center" alt="bruno-py" height="35" width="135" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
